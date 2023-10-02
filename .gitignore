@@ -1,0 +1,11 @@
+target/
+.mvn/wrapper
+.idea
+.vscode/
+
+*.iws
+*.iml
+*.ipr
+
+**/application.properties
+logs/
